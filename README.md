@@ -5,11 +5,12 @@
   <a href="mailto:emanuellegdes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br>
-<div align="center">Sou graduanda em Engenharia da Computação com experiência em analise de dados. Tenho experiência no setor Administrativo o que influenciou na minha decisão de carreira na área de Ciência de Dados a fim de promover tomadas de decisões mais inteligentes. Minhas principais habilidades estão relacionadas a criação de Dashboards para visualização de métricas e dados de forma eficiente.</div>
+<div align="center">
+<h3>Sou graduanda em Engenharia da Computação, analista de dados com habilidades em Python e SQL. Atualmente trabalho com extração de dados a partir de consultas nativas em SQL e manutenção de API de clusterização de dados em Flask. </h2></div>
 
 ### Sobre mim:
-- 📊 Analiso dados com Power BI e Metabase
-- 🐍 Trabalhei na manutenção de uma API em Flask
+- 📊 Estou me aperfeiçoando em análise de dados com as ferramentas Power BI e Metabase;
+- 🐍 Estou me especializando em Python para Data Science e Machine Learning;
           
 <div align="center">
   <a href="https://github.com/EmanuelledeSouza">
