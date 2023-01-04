@@ -10,15 +10,19 @@
 
 ### Sobre mim:
 - 📊 Estou me aperfeiçoando em análise de dados com as ferramentas Power BI e Metabase;
-- 🐍 Estou me especializando em Python para Data Science e Machine Learning;
-          
+- 🐼 Estou me especializando em Python para Data Science e Machine Learning;
+- 💻 Estagiária de Business Intelligence no pede.ai;
+- 🐶 Gosto  de doces e dogs;
+- 🧶 Fun fact: Sou cosplayer e artesã de Amigurumis.
+<br>
 <div align="center">
   <a href="https://github.com/EmanuelledeSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelledeSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelledeSouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
- ### Stacks e Ferramentas:
+<br>
+  
+### Stacks e Ferramentas:
 <div style="display: inline_block">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
