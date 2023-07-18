@@ -11,7 +11,7 @@
 ### Sobre mim:
 - 📊 Estou me aperfeiçoando em análise de dados com as ferramentas Power BI e Metabase;
 - 🐼 Estou me especializando em Python para Data Science e Machine Learning;
-- 💻 Estagiária de Business Intelligence no pede.ai;
+- 💻 Cientista de Dados Júnior no pede.ai;
 - 🐶 Gosto  de doces e dogs;
 - 🧶 Fun fact: Sou cosplayer e artesã de Amigurumis.
 <br>
