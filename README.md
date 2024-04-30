@@ -15,13 +15,7 @@
 - 🐶 Gosto  de doces e dogs;
 - 🧶 Fun fact: Sou cosplayer e artesã de Amigurumis.
 <br>
-<div align="center">
-  <a href="https://github.com/EmanuelledeSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelledeSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelledeSouza&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<br>
-  
+
 ### Stacks e Ferramentas:
 <div style="display: inline_block">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -34,7 +28,7 @@
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  </div>        
+  </div>     
           
           
   
